@@ -1,0 +1,2 @@
+scrapy>=2.11,<3
+jupyterlab>=4,<5
